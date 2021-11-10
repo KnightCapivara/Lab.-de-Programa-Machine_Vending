@@ -5,3 +5,6 @@ Eng. da Computação - *Laboratório de Programação 1 – Prova 1.* - data: 20
 
 
 - #### *Faça um sistema para uma máquina automática de vendas (Vending Machine) em C.*
+
+
+_Cancelado_
